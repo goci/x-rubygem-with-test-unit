@@ -1,6 +1,6 @@
 # Rubygem::With::Test::Unit
 
-TODO: Write a gem description
+sample rubygem
 
 ## Installation
 
