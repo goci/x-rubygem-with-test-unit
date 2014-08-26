@@ -5,3 +5,4 @@ tudo bem
 ola, bom dia
 bom dia =)
 foo
+bar!
